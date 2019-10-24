@@ -1,0 +1,10 @@
+git --version
+git config --global user.name "daniel"
+git config --global user.email "d.uran1@pascualbravo.edu.co"
+
+mkdir carpeta
+cd carpeta
+
+git init
+git status
+
