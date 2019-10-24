@@ -10,3 +10,5 @@ git status
 
 git add readme.txt
 git commit -m "carpeta creada"
+
+git config --global user.username dsuranr
